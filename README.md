@@ -1,0 +1,2 @@
+# strange-js
+ Javascript Library
