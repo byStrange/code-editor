@@ -1,6 +1,6 @@
 # strange-js
 Javascript Library
-
+With this you don't have to store your elements in your js file all elements will be pre-created as variable
 ```html
 <div id="myId">
     ...
